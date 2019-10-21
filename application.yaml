@@ -1,6 +1,6 @@
 app-config:
   ecs-config:
     provider: jdc
-    region-id: cn-south-1a
-    access-key-id: 47C6E2C61BA30AE9089BCA5272CE732C
-    access-key-secret: A2351100BAB1686FC44B58AFB98647BF
+    region-id: xxx
+    access-key-id: xxx
+    access-key-secret: xxx
